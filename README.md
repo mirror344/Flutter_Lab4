@@ -1,17 +1,31 @@
-# flutter_lab4_app
+# Лабораторная работа №4-5. Flutter: структура UI и компонентный подход
 
-A new Flutter project.
+Дудаков Иван\
+ИСП-241\
+05.10.2026
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Было изучено:
 
-A few resources to get you started if this is your first Flutter project:
+1. Создание классов-виджетов
+2. Добавление изображения
+3. Добавление кнопок
+4. Генерация случайных чисел
+5. StatefulWidget и управление состоянием виджета
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![FinalApp](/img/step6_Dudakov.png)
+
+---
+
+[GitHub репозиторий](https://github.com/mirror344/Flutter_Lab4)
+
+---
+
+## Инструкция по запуску
+
+1. Клонировать репозиторий `git clone <url>`
+2. Перейти в папку репозитория `cd Flutter_Lab4`
+3. Запустить в Chrome `flutter run -d chrome`, в Edge `flutter run -d edge`

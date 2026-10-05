@@ -16,7 +16,7 @@
 
 ---
 
-![FinalApp](/img/step6_Dudakov.png)
+![FinalApp](img/step6_Dudakov.PNG)
 
 ---
 
